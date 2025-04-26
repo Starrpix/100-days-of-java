@@ -18,6 +18,7 @@ Goal: Refresh Java fundamentals, learn OOP, explore Spring Boot, and build meani
 
 **Reflection:**  
 Got clarity on Java's architecture. Practiced loops and explored how arrays are stored in memory. Revisiting these basics felt nostalgic and refreshing.
+Using Programiz Pro for the tutorial, files will be uploaded once I start doing projects.
 
 ---
 
