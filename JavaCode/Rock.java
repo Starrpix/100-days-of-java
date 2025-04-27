@@ -1,4 +1,5 @@
-package code;
+// I will try to use methods to make the code more readable and maintainable.
+package JavaCode;
 
 import java.util.Scanner;
 
