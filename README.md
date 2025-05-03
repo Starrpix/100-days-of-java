@@ -78,3 +78,36 @@ Dove into the core of Java's object-oriented model. Understanding how classes, o
 Excited to apply these principles to refactor my Rock Paper Scissors game and beyond.
 
 ---
+
+## 🟢 Day 6: Practice up to Inheritance  
+**📅 Date:** May 1, 2025  
+
+### 🔹 Topics Covered:
+- Practiced OOP concepts learned so far
+- Focused on class, objects, inheritance
+- Briefly explored abstract classes
+
+### 🧠 Reflection:
+Worked through several practice problems to solidify understanding of inheritance.  
+Also took a sneak peek into abstract classes — curious to dive deeper into them later.  
+This day was more about application and internalizing the OOP foundation.
+
+---
+
+## 🟢 Day 7: Finishing OOP & Interface Implementation  
+**📅 Date:** May 3, 2025  
+
+### 🔹 Topics Covered:
+- Interfaces and polymorphism
+- Data hiding & encapsulation
+- `instanceof` operator
+- `final` keyword
+- Completed core Java OOP concepts
+- Applied OOP to:
+  - Refactor Rock Paper Scissors game
+  - Build a simple Tic Tac Toe using arrays
+
+### 🧠 Reflection:
+Polymorphism and interfaces brought a whole new dimension to coding style and flexibility.  
+The use of `final`, `instanceof`, and encapsulation reinforced control over data and behavior.  
+Building the **Tic Tac Toe** game using arrays made everything feel cohesive. A great culmination of this week's efforts!
