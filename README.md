@@ -79,7 +79,7 @@ Excited to apply these principles to refactor my Rock Paper Scissors game and be
 
 ---
 
-## 🟢 Day 6: Practice up to Inheritance  
+## 🟢 Day 6: Practiced problem sets up to Inheritance  
 **📅 Date:** May 1, 2025  
 
 ### 🔹 Topics Covered:
