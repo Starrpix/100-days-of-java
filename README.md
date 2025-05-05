@@ -1,5 +1,7 @@
 # 📘 Daily Java Learning Log
 
+Welcome to my daily Java learning log! I'm using this log to track my progress, stay accountable, and reflect on concepts I’ve learned. Tutorials and practice primarily done via **Programiz Pro**.
+
 ---
 
 ## 🟢 Day 1: Understanding Java Basics  
@@ -111,3 +113,30 @@ This day was more about application and internalizing the OOP foundation.
 Polymorphism and interfaces brought a whole new dimension to coding style and flexibility.  
 The use of `final`, `instanceof`, and encapsulation reinforced control over data and behavior.  
 Building the **Tic Tac Toe** game using arrays made everything feel cohesive. A great culmination of this week's efforts!
+
+---
+
+## 🟢 Day 8: OOP Practice & Review  
+**📅 Date:** May 4, 2025  
+
+### 🔹 Topics Covered:
+- Practiced ~20 Java OOP questions
+- Reviewed core Java basics using spaced learning
+- Completed **JAVA OOP** module on Programiz
+
+### 🧠 Reflection:
+This day was focused on spaced repetition and reinforcement.  
+Practicing 20 questions helped clarify edge cases and tricky logic in OOP.  
+Completing the OOP module gave me a satisfying sense of closure for the first phase of my Java journey.
+
+---
+
+### ✅ Progress So Far:
+- ✅ Java Basics (Control Flow, Loops, Arrays, Strings)
+- ✅ Methods & Problem Solving
+- ✅ Object-Oriented Programming (Classes, Inheritance, Polymorphism, Interfaces)
+- ✅ Projects: Rock Paper Scissors (refactored), Tic Tac Toe
+
+---
+
+Stay tuned as I move toward **exception handling, file I/O, and Java Collections** in the coming days!
